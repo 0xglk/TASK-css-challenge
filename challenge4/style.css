@@ -29,10 +29,9 @@ body {
 
 }
 .descriptions {
-font-size: 15px;
-padding: 0px 0px 0px 5px;
+padding: 0px 0px 0px 8px;
 position: absolute;
-top: 62%;
+top: 59%;
 }
 
 /*A gift from us!*/
@@ -52,6 +51,5 @@ top: 62%;
 }
 .movie-title {
   font-size: 29px;
-padding: 0px 0px 0px 5px;
 display: inline;
 }
